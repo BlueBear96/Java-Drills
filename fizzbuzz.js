@@ -12,7 +12,14 @@ for (let i = 1; i <= countTo; i++) {
       results.push(i);
     }
   }
-  return results;
+  return results;  
+
+
+
+
+
+
+  
 }
 
 /* From here down, you are not expected to 
