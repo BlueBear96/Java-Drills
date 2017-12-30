@@ -1,5 +1,7 @@
 function addToList(list, item) {
   // your code goes here
+  list.push(item);
+  return list;
 }
 
 /* From here down, you are not expected to 
