@@ -13,13 +13,6 @@ for (let i = 1; i <= countTo; i++) {
     }
   }
   return results;  
-
-
-
-
-
-
-  
 }
 
 /* From here down, you are not expected to 
